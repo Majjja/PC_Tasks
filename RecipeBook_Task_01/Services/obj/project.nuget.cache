@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQuETX0d97VNuPwedS1PGy+BewA813N3yIyi8cK/DenlgTYsxVb1c2V5UOpCe+HmTuNBpndMvL8WtuLUwFaW7A==",
+  "success": true,
+  "projectFilePath": "D:\\WEB DEVELOPER\\SEDC Code Academy\\POLARCAPE\\GitHub\\PC_Tasks\\RecipeBook_Task_01\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maja\\.nuget\\packages\\csvhelper\\19.0.0\\csvhelper.19.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

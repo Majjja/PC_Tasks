@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SeminarClass_Task_02/1.0.0": {
+        "runtime": {
+          "SeminarClass_Task_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeminarClass_Task_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

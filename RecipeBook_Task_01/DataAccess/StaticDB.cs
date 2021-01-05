@@ -11,27 +11,27 @@ namespace DataAccess
         {
             var lasly = new User()
             {
-                Id = new Guid("A1111111-B111-C111-D111-E11111111111"),
+                Id = 1,
                 Name = "Lasly"
             };
             var meri = new User()
             {
-                Id = new Guid("A2222222-B222-C222-D222-E22222222222"),
+                Id = 2,
                 Name = "Meri"
             };
             var joana = new User()
             {
-                Id = new Guid("A3333333-B333-C333-D333-E33333333333"),
+                Id = 3,
                 Name = "Joana"
             };
             var juli = new User()
             {
-                Id = new Guid("A4444444-B444-C444-D444-E44444444444"),
+                Id = 4,
                 Name = "Juli"
             };
             var sofi = new User()
             {
-                Id = new Guid("A5555555-B555-C555-D555-E55555555555"),
+                Id = 5,
                 Name = "Sofi"
             };
 

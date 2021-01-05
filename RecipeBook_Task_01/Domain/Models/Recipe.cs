@@ -12,7 +12,7 @@ namespace Domain.Models
         public string Notes { get; set; }
         public double SkillLevel { get; set; }
         public int PreparingTime { get; set; }
-        public IEnumerable<Ingredient> Ingredients { get; set; }
+        public ICollection<Ingredient> Ingredients { get; set; }
         public int UserId { get; set; }
         public User User { get; set; }
     }

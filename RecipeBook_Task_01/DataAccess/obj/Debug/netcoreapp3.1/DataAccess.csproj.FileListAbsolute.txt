@@ -21,3 +21,4 @@ D:\WEB DEVELOPER\SEDC Code Academy\POLARCAPE\GitHub\PC_Tasks\RecipeBook_Task_01\
 D:\WEB DEVELOPER\SEDC Code Academy\POLARCAPE\GitHub\PC_Tasks\RecipeBook_Task_01\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 D:\WEB DEVELOPER\SEDC Code Academy\POLARCAPE\GitHub\PC_Tasks\RecipeBook_Task_01\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 D:\WEB DEVELOPER\SEDC Code Academy\POLARCAPE\GitHub\PC_Tasks\RecipeBook_Task_01\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\POLARCAPE\GitHub\PC_Tasks\RecipeBook_Task_01\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache

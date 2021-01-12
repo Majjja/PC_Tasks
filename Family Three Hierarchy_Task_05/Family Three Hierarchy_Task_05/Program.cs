@@ -8,43 +8,43 @@ namespace Family_Three_Hierarchy_Task_05
     {
         static void Main(string[] args)
         {
-            Parent parent = new Parent()
+            Person parent = new Person()
             {
                 Name = "Jovan",
-                Children = new List<Child>()
+                Children = new List<Person>()
                 {
-                    new Child()
+                    new Person()
                     {
                         Name = "Zorica",
-                        Children = new List<Child>()
+                        Children = new List<Person>()
                         {
-                            new Child()
+                            new Person()
                             {
                                 Name = "Dushan",
-                                Children = new List<Child>()
+                                Children = new List<Person>()
                                 {
-                                    new Child()
+                                    new Person()
                                     {
                                         Name = "Marko"
                                     }
                                 }
                             },
-                            new Child()
+                            new Person()
                             {
                                 Name = "Maja"
                             }
                         }
                     },
-                    new Child()
+                    new Person()
                     {
                         Name = "Dushan",
-                        Children = new List<Child>()
+                        Children = new List<Person>()
                         {
-                            new Child()
+                            new Person()
                             {
                                 Name = "Stefan"
                             },
-                            new Child()
+                            new Person()
                             {
                                 Name = "Marija"
                             }
@@ -55,7 +55,7 @@ namespace Family_Three_Hierarchy_Task_05
 
             FamilyTree(parent, 0);
         }
-        public static void FamilyTree(Parent parent, int count)
+        public static void FamilyTree(Person parent, int count)
         {
             var name = parent.Children.Any() ? $"*{parent.Name}*" : $" {parent.Name}";
             var whiteSpace = "";

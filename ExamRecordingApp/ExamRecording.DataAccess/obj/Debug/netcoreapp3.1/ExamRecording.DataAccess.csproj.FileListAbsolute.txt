@@ -1,0 +1,15 @@
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.deps.json
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.runtimeconfig.json
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.runtimeconfig.dev.json
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.csprojAssemblyReference.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.AssemblyInfo.cs
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.csproj.CopyComplete
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecording.DataAccess\obj\Debug\netcoreapp3.1\ExamRecording.DataAccess.genruntimeconfig.cache

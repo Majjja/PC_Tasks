@@ -1,0 +1,9 @@
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache

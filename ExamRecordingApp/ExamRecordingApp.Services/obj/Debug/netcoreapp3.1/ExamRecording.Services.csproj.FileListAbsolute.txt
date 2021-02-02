@@ -1,0 +1,14 @@
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\ExamRecording.Services.deps.json
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\ExamRecording.Services.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\ExamRecording.Services.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\ExamRecording.DataAccess.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.csprojAssemblyReference.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.AssemblyInfoInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.AssemblyInfo.cs
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.csproj.CoreCompileInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.csproj.CopyComplete
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\ExamRecordingApp\ExamRecordingApp.Services\obj\Debug\netcoreapp3.1\ExamRecording.Services.pdb

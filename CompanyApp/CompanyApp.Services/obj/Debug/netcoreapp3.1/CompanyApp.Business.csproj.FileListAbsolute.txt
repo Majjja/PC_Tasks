@@ -1,0 +1,12 @@
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\bin\Debug\netcoreapp3.1\CompanyApp.Business.deps.json
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\bin\Debug\netcoreapp3.1\CompanyApp.Business.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\bin\Debug\netcoreapp3.1\CompanyApp.Business.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\bin\Debug\netcoreapp3.1\CompanyApp.DataAccess.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\bin\Debug\netcoreapp3.1\CompanyApp.DataAccess.pdb
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.csprojAssemblyReference.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.AssemblyInfoInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.AssemblyInfo.cs
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.csproj.CopyComplete
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.dll
+C:\Users\MajaJovanovska\Desktop\Maja\MyGitHub\PC_Tasks\CompanyApp\CompanyApp.Services\obj\Debug\netcoreapp3.1\CompanyApp.Business.pdb
